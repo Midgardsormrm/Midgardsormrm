@@ -1,5 +1,5 @@
 ## Hello 👋
-<span style="color:red">some **This is Red Bold.** text</span>
+**Welcome to my profile brother** 
 <!--
 **Midgardsormrm/Midgardsormrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
