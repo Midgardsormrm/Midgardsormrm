@@ -1,5 +1,5 @@
 ## Hello 👋
-<span style="color:blue">some *blue* text</span>. RedFlag
+<span style="color:blue">RedFlag</span>. 
 <!--
 **Midgardsormrm/Midgardsormrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
