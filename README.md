@@ -1,5 +1,6 @@
 ## Hello 👋
 **Welcome to my profile brother** 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=11&duration=4000&pause=2600&color=2EF75B&background=042227&width=435&lines=+Currently+working+on+several+projects%2C+description+will+be+updated.....;FlappyBird)](https://git.io/typing-svg)
 <!--
 **Midgardsormrm/Midgardsormrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
