@@ -1,5 +1,5 @@
 ## Привет 👋
-**WМеня зовут Данил, и я начинающий разработчик** 
+**Меня зовут Данил, и я начинающий разработчик** 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F73DAF&width=850&height=76&lines=Curently+working+on+several+projects%2C+description+will+be+updated...;FlappyBird+(click))](https://github.com/Midgardsormrm/flappy)
