@@ -13,7 +13,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📂 Проекты
-- [FlappyBird](https://www.rustore.ru/catalog/app/com.m9m9ra.running) </br>
+- [FlappyBird](https://github.com/Midgardsormrm/flappy) </br>
   FlappyBird - это мобильное приложение, которое позволит развлечься в любое время в любом месте. </br>
 <!--
 **Midgardsormrm/Midgardsormrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
