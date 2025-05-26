@@ -1,5 +1,5 @@
-## Hello 👋
-**Welcome to my profile brother** 
+## Привет 👋
+**WМеня зовут Данил, и я начинающий разработчик** 
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=F73DAF&width=850&height=76&lines=Curently+working+on+several+projects%2C+description+will+be+updated...;FlappyBird+(click))](https://github.com/Midgardsormrm/flappy)
@@ -13,6 +13,8 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## 📂 Проекты
+- [FlappyBird](https://www.rustore.ru/catalog/app/com.m9m9ra.running) </br>
+  FlappyBird - это мобильное приложение, которое позволит развлечься в любое время в любом месте. </br>
 <!--
 **Midgardsormrm/Midgardsormrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
