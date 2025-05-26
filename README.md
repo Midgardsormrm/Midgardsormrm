@@ -1,7 +1,8 @@
 ## Hello 👋
 **Welcome to my profile brother** 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F73DAF&width=435&lines=Curently+working+on+several+projects%2C+description+will+be+updated...;Flappy+Bird)](https://github.com/Midgardsormrm/flappy)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=500&color=F73DAF&width=850&height=76&lines=Curently+working+on+several+projects%2C+description+will+be+updated...;FlappyBird+(click))](https://github.com/Midgardsormrm/flappy)
 <!--
 **Midgardsormrm/Midgardsormrm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
